@@ -8,7 +8,7 @@ Bu proje, **Aydın Adnan Menderes Üniversitesi Söke İşletme Fakültesi Yöne
 * **Ders:** YBS470 - Bitirme Çalışması (2026)
 * **Proje Adı:** Borsapy Kütüphanesi Kullanılarak Nesne Yönelimli Programlama (OOP) Mimarisiyle Terminal Tabanlı Borsa Otomasyonu Geliştirilmesi
 * **Öğrenci:** Berkant KARAÇAY (No: 223201064)
-* **Danışman:** Dr. Öğr. Üyesi Sertan ALKAN
+* **Danışman:** Prof. Dr. Sertan ALKAN
 
 ---
 
