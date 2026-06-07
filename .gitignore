@@ -1,0 +1,28 @@
+# Python Çeviri ve Önbellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortamlar (Virtual Environments)
+venv/
+.venv/
+env/
+ENV/
+
+# Geliştirme Ortamı Ayarları (IDE/Editor)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Geçici Word/Ofis Dosyaları (Tez raporun açıkken oluşan kilit dosyaları)
+~$*.docx
+~$*.doc
+.~lock.*.docx#
+
+# İşletim Sistemi Sistem Dosyaları
+.DS_Store
+Thumbs.db
